@@ -9,4 +9,4 @@ let division = 6
 console.log((promedio1 + datosNuevos) / division )
 
 
-
+//argentinaPrograma2023
